@@ -4,7 +4,7 @@ RUN apt-get update -y
 
 RUN apt-get install       \
   git                     \
-  gnupg=2.2.20-1ubuntu1.1 \
+  gnupg=2.3.8-1ubuntu1.1 \
   gawk                    \
   wget                    \
   -y
